@@ -24,7 +24,7 @@ p{text-align:justify}
     color:tomato;
 }
 section{
-    height:500px;
+    height:700px;
     overflow:hidden;
 }
 .half_width{
@@ -62,15 +62,15 @@ img{
     height:670px;
 }
 .project-img img{
-    width:310px;
-    height:170px;
+    width:395px;
+    height:200px;
     
 }
 .sub_project{
     display:inline-block;
     padding:20px;
-    width:300px;
-    height:290px;
+    width:400px;
+    height:330px;
     background-color:#fff;
     margin-left:20px;
     border-radius:10px;
@@ -88,7 +88,7 @@ img{
     height:560px;
 }
 .contact_banner{
-   width:1500px;
+   width:1700px;
    top:100px;
    left:100px
 
@@ -104,7 +104,7 @@ img{
 }
 .contact_banner h1{
  display:inline-block;
- padding: 100px 40px 60px 250px;
+ padding: 70px 40px 60px 480px;
  color:white;
  margin-right:200px
 }
