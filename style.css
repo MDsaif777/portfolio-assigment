@@ -1,0 +1,131 @@
+body{
+    margin:0;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+h1{
+    font-size:50px;
+}
+p{text-align:justify}
+.menu_bar a{
+    text-decoration:none;
+    color:black;
+    font-size:14px;
+    padding:20px ;
+    float:right;
+    font-weight:bold
+
+}
+.menu_bar{
+    padding:23px  70px;
+}
+.tomato_text{
+    color:tomato;
+}
+section{
+    height:500px;
+}
+.half_width{
+    width:40%;
+    margin-left:3%;
+    padding:2%;
+    float:left;
+
+}
+img{
+    width:75%
+}
+.intu_page{
+    padding-top:20px;
+}
+.link_button{
+    text-decoration:none;
+    background-color:tomato;
+    color:white;
+    padding:10px 20px;
+    border-radius:5px;
+    
+}
+.half_width p{
+    padding-bottom:20px
+}
+
+.project_h h2{
+    font-size:40px;
+    text-align:center;
+    padding:70px 0;
+}
+.project{
+    background-color:#dadde9;
+    height:670px;
+}
+.project-img img{
+    width:310px;
+    height:170px;
+    
+}
+.sub_project{
+    display:inline-block;
+    padding:20px;
+    width:300px;
+    height:290px;
+    background-color:#fff;
+    margin-left:20px;
+    border-radius:10px;
+    
+}
+.sub_project p{
+    color:gray;
+    font-size:16px;
+}
+
+.project-img{
+    margin-left:90px;
+}
+.buttom{
+    height:560px;
+}
+.contact_banner{
+   width:1500px;
+   top:100px;
+   left:100px
+
+}
+.contact_banner{
+    height:280px;
+    background-image: url("images/button.png");
+    background-size:800px;
+    background-repeat:no-repeat;
+    background-position-x: 210px;
+    background-position-y: 70px;
+
+}
+.contact_banner h1{
+ display:inline-block;
+ padding: 100px 40px 60px 250px;
+ color:white;
+ margin-right:200px
+}
+.chat_button{
+    text-decoration:none;
+    background-color:tomato;
+    color:white;
+    padding:15px 28px;
+    border-radius:5px;
+}
+.icon_link{
+    width:30px;
+    padding:5px;
+}
+.last_co{
+    margin-top:80px;
+    text-align: center;
+}
+.last_co h3 {
+   color:gray
+}
+.last_co h2{
+    font-size:35px;
+}
+
+
