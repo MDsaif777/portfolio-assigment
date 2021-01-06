@@ -18,12 +18,14 @@ p{text-align:justify}
 }
 .menu_bar{
     padding:23px  70px;
+    overflow: hidden;
 }
 .tomato_text{
     color:tomato;
 }
 section{
     height:500px;
+    overflow:hidden;
 }
 .half_width{
     width:40%;
